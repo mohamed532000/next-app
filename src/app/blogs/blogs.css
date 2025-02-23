@@ -1,0 +1,8 @@
+.blog {
+    transform: translateY(10px);
+    opacity: 0;
+}
+.blog.animate {
+    transform: translateY(0);
+    opacity: 1;
+}
